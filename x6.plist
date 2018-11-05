@@ -13,7 +13,7 @@
      <string>software-package</string>
      <key>url</key>
      <!-- http或者https链接的ipa文件地址 -->
-     <string>http://down.erusan.cn/x6.ipa</string>
+     <string>http://down.465z.cn/x6.ipa</string>
     </dict>
     <dict>
      <key>kind</key>
@@ -31,7 +31,7 @@
      <true/>
      <key>url</key>
      <!-- http或者https链接的小图片地址，可直接使用app对应的icon（分辨率没强制要求） -->
-     <string>http://down.erusan.cn/x5.png</string>
+     <string>http://down.465z.cn/x5.png</string>
     </dict>
    </array>
    <key>metadata</key>
