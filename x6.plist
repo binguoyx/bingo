@@ -22,7 +22,7 @@
      <true/>
      <key>url</key>
      <!-- http或者https链接的图片地址，可直接使用app对应的icon（分辨率没强制要求） -->
-     <string>http://down.erusan.cn/x5.png</string>
+     <string>http://down.465z.cn/x5.png</string>
     </dict>
     <dict>
      <key>kind</key>
